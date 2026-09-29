@@ -1,0 +1,8 @@
+{
+  "rows": 5000,
+  "repeat_purchase_accuracy": 0.672,
+  "revenue_mae": 26.4,
+  "revenue_r2": 0.8,
+  "repeat_rate_pct": 65.28,
+  "total_revenue": 509492.13
+}
